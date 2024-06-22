@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/wj4Ktyy.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://imgur.com/a/john-shin-codepath-webdev102-pre-work-UpkStzz' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/UpkStzz"  ><a href="//imgur.com/a/UpkStzz">Video Walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap!
